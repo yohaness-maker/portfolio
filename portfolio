@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=UTF-8></head>
+<<i class="fa fa-external-linkcss styles" aria-hidden="true"></i>
+<body>
+<h1>INTODUCTION TO PROGRAMING</h1>
+<p1>Welcome to the first week of programming .Here we are introduced ;
+<ol>
+<li>html</li>
+<li>css</li>
+<li>gui</li>
+<li>navigation</li>
+<li>GIT</li></ol>
+We mostly focus with learning to interacting with command line and webpage designing to understand the basics </p1></body>
+</html>
